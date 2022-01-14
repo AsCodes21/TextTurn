@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTurn/static/css/main.3eb36e78.css",
+    "main.js": "/TextTurn/static/js/main.77bd5907.js",
+    "static/js/787.edd59a96.chunk.js": "/TextTurn/static/js/787.edd59a96.chunk.js",
+    "index.html": "/TextTurn/index.html",
+    "main.3eb36e78.css.map": "/TextTurn/static/css/main.3eb36e78.css.map",
+    "main.77bd5907.js.map": "/TextTurn/static/js/main.77bd5907.js.map",
+    "787.edd59a96.chunk.js.map": "/TextTurn/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eb36e78.css",
+    "static/js/main.77bd5907.js"
+  ]
+}
